@@ -1,0 +1,4292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Eden 3D Printer</title>
+    <link>https://www.eden3dprinter.com</link>
+    <pubDate>Thu, 07 Sep 2017 12:02:34 +0000</pubDate>
+    <description>"G-d's Paradise"</description>
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>741396748</wp:author_id>
+      <wp:author_login>maxwell.sikorski@gmail.com</wp:author_login>
+      <wp:author_email>maxwell.sikorski@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Maxwell Sikorski]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Maxwell]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Sikorski]]></wp:author_last_name>
+    </wp:author>
+    <wp:author>
+      <wp:author_id>44244166</wp:author_id>
+      <wp:author_login />
+      <wp:author_email />
+      <wp:author_display_name />
+      <wp:author_first_name />
+      <wp:author_last_name />
+    </wp:author>
+    <wp:author>
+      <wp:author_id>-1376089133</wp:author_id>
+      <wp:author_login />
+      <wp:author_email />
+      <wp:author_display_name />
+      <wp:author_first_name />
+      <wp:author_last_name />
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <title />
+      <link>/eden-3d-network/2021/07/01/1</link>
+      <content:encoded />
+      <excerpt:encoded><![CDATA[<p>bitcoin center</p>]]></excerpt:encoded>
+      <wp:post_name>2021/07/01/1</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Thu, 01 Jul 2021 16:03:29 +0000</pubDate>
+      <wp:post_date>2021-07-01 16:03:29</wp:post_date>
+      <wp:post_date_gmt>2021-07-01 16:03:29</wp:post_date_gmt>
+      <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+      <dc:creator />
+      <wp:comment_status>open</wp:comment_status>
+      <wp:comment>
+        <wp:comment_id>1</wp:comment_id>
+        <wp:comment_approved>1</wp:comment_approved>
+        <wp:comment_author_email>wapuu@wordpress.example</wp:comment_author_email>
+        <wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+        <wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+        <wp:comment_author_IP />
+        <wp:comment_date>2021-04-10 03:32:57</wp:comment_date>
+        <wp:comment_date_gmt>2021-04-10 03:32:57</wp:comment_date_gmt>
+        <wp:comment_content><![CDATA[<p>Hi, this is a comment.To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.</p>]]></wp:comment_content>
+        <wp:comment_type />
+        <wp:comment_parent>0</wp:comment_parent>
+      </wp:comment>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Sat, 04 Jan 2020 07:24:17 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 style="text-align:center;white-space:pre-wrap;"><strong>Contact US</strong></h1><hr />&nbsp;
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="59b1363c2278e70e9faa264a"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://maxwell-sikorski.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '59b1363c2278e70e9faa264a',
+      collectionId: '',
+      objectName: 'page-59b1363c2278e70e9faa2648'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1409936761445_13315" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1409936761445_13642" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1409936761445_13642-field">
+              Email Address
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1409936761445_13642-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1409936761445_14052" class="form-item field text required">
+                
+            <label class="title" for="text-yui_3_17_2_1_1409936761445_14052-field">
+              Subject
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-yui_3_17_2_1_1409936761445_14052-field"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1409936761445_14462" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1409936761445_14462-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1409936761445_14462-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-center
+          
+        "
+      >
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="/team" class="sqs-block-button-element--medium sqs-block-button-element" >About us</a>
+</div>
+&nbsp;]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Sat, 10 Jul 2021 22:16:36 +0000</pubDate>
+      <content:encoded><![CDATA[<p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p><p style="text-align:center;white-space:pre-wrap;" class=""><em>“Manifesting Your Thoughts into Things”</em></p>
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="/workshops" class="sqs-block-button-element--large sqs-block-button-element" target="_blank">Workshops</a>
+</div>
+<p style="text-align:center;white-space:pre-wrap;" class=""><span style="text-decoration:underline"><strong><em><br></em></strong></span><strong><em>⚡️</em></strong><span style="text-decoration:underline"><strong><em>Eden 1</em></strong></span><strong><em>⚡️ Available Now</em></strong></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><blockquote><h1 style="text-align:center;white-space:pre-wrap;">DIgitizE Material</h1></blockquote><p style="text-align:center;white-space:pre-wrap;" class=""><strong>PAY WITH ⚡️</strong></p>
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="https://www.eden3dprinter.com/shop/eden-1-1" class="sqs-block-button-element--large sqs-block-button-element" target="_blank">Eden 1</a>
+</div>
+<hr />]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/hardware</link>
+      <title>Hardware</title>
+      <pubDate>Thu, 11 Jun 2020 12:01:37 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 style="text-align:center;white-space:pre-wrap;"><strong>EDEN 1 (Beta)<em> </em></strong></h1><p style="text-align:center;white-space:pre-wrap;" class=""><strong>PAY WITH ⚡️</strong></p><hr /><h2 style="text-align:center;white-space:pre-wrap;"><strong><em>⚡️ </em></strong><span style="text-decoration:underline"><strong><em>Buy Now</em></strong></span><strong><em> ⚡️ </em></strong></h2><h3 style="text-align:center;white-space:pre-wrap;"><strong>Eden 1  3D Printer</strong></h3>
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="/shop" class="sqs-block-button-element--medium sqs-block-button-element" target="_blank">Buy Now</a>
+</div>
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+              
+            "
+            style="
+              max-width:2500px;
+              
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:75%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1585328153187-1U2W6HQFLE2BP6EJLCTP/Eden_1_Shop.jpeg" alt="Eden_1_Shop.jpeg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1585328153187-1U2W6HQFLE2BP6EJLCTP/Eden_1_Shop.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1585328153187-1U2W6HQFLE2BP6EJLCTP/Eden_1_Shop.jpeg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt="Eden_1_Shop.jpeg" data-load="false" data-image-id="5e7e3015799501307343f6ed" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>]]></content:encoded>
+      <wp:post_name>hardware</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/marketplace</link>
+      <title>Marketplace</title>
+      <pubDate>Fri, 12 Mar 2021 13:02:26 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 style="text-align:center;white-space:pre-wrap;"><strong>Shop Designs Below</strong></h1><p style="text-align:center;white-space:pre-wrap;" class=""><strong>PAY WITH ⚡️<br></strong></p><h3 style="text-align:center;white-space:pre-wrap;"><strong>user Updates soon!</strong></h3>
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+              
+            "
+            style="
+              max-width:364px;
+              
+            "
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="/s/print_logo_top.stl"
+              
+          >
+            
+          <div
+              
+                style="padding-bottom:59.06593322753906%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1615553948635-DWO3IKXW8W42R4YVIA93/Screen+Shot+2021-03-12+at+7.56.23+AM.png" alt="Bitcoin top .stl" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1615553948635-DWO3IKXW8W42R4YVIA93/Screen+Shot+2021-03-12+at+7.56.23+AM.png" data-image="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1615553948635-DWO3IKXW8W42R4YVIA93/Screen+Shot+2021-03-12+at+7.56.23+AM.png" data-image-dimensions="364x215" data-image-focal-point="0.5,0.5" alt="Bitcoin top .stl" data-load="false" data-image-id="604b659c908fe8384c11defc" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;">Bitcoin top .stl</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+              
+            "
+            style="
+              max-width:444px;
+              
+            "
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="/s/print_logo_bottom.stl"
+              
+          >
+            
+          <div
+              
+                style="padding-bottom:57.88288116455078%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1615553929422-GKBSULAYE9B3HIC5KTP1/Screen+Shot+2021-03-12+at+7.55.50+AM.png" alt="Bitcoin bottom .stl" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1615553929422-GKBSULAYE9B3HIC5KTP1/Screen+Shot+2021-03-12+at+7.55.50+AM.png" data-image="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1615553929422-GKBSULAYE9B3HIC5KTP1/Screen+Shot+2021-03-12+at+7.55.50+AM.png" data-image-dimensions="444x257" data-image-focal-point="0.5,0.5" alt="Bitcoin bottom .stl" data-load="false" data-image-id="604b6589283d8061835921b7" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;">Bitcoin bottom .stl</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+              
+            "
+            style="
+              max-width:426px;
+              
+            "
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="/s/print_frisbee.stl"
+              
+          >
+            
+          <div
+              
+                style="padding-bottom:69.71830749511719%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1615553905958-PMVOF1FS0F4FFF9EYPJK/Screen+Shot+2021-03-12+at+7.54.26+AM.png" alt="The “Lauren” Frisbee, shell .stl" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1615553905958-PMVOF1FS0F4FFF9EYPJK/Screen+Shot+2021-03-12+at+7.54.26+AM.png" data-image="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1615553905958-PMVOF1FS0F4FFF9EYPJK/Screen+Shot+2021-03-12+at+7.54.26+AM.png" data-image-dimensions="426x297" data-image-focal-point="0.5,0.5" alt="The “Lauren” Frisbee, shell .stl" data-load="false" data-image-id="604b65711becc67b96fc1bfc" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;">The “Lauren” Frisbee, shell .stl</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="/s/Frisbee_Bit_Coin_STL.zip" class="sqs-block-button-element--medium sqs-block-button-element" >Download All Bitcoin Frisbee files here</a>
+</div>
+<hr />
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-grid
+  sqs-gallery-aspect-ratio-square
+  sqs-gallery-thumbnails-per-row-4
+  
+  
+
+  
+    sqs-gallery-block-show-meta sqs-gallery-block-meta-position-bottom
+    
+  
+  sqs-gallery-block-show-meta
+  
+  sqs-gallery-block-meta-only-title
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://paywall.link/to/43a54" target="_blank"
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1578118462110-B19R35DTERRD99NUNN7N/%2522I+Can%27t+Stop+Loving+You%2522_By-Count+Basie.stl.png" alt="&quot;I Can't Stop Loving You&quot; By: Count Basie" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1578118462110-B19R35DTERRD99NUNN7N/%2522I+Can%27t+Stop+Loving+You%2522_By-Count+Basie.stl.png" data-image="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1578118462110-B19R35DTERRD99NUNN7N/%2522I+Can%27t+Stop+Loving+You%2522_By-Count+Basie.stl.png" data-image-dimensions="449x360" data-image-focal-point="0.5,0.5" alt="&quot;I Can't Stop Loving You&quot; By: Count Basie" data-load="false" data-image-id="5e102d3d10a69061a7cf5c96" data-type="image" />
+                </a>
+                
+                  <div class="image-slide-title">"I Can't Stop Loving You" By: Count Basie</div>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+    
+  </div>
+
+  
+
+</div>
+
+
+
+
+<style type="text/css" id="design-grid-css">
+#block-yui_3_17_2_1_1578117630814_3993 .sqs-gallery-block-grid .sqs-gallery-design-grid { margin-right: -3px; }
+#block-yui_3_17_2_1_1578117630814_3993 .sqs-gallery-block-grid .sqs-gallery-design-grid-slide .margin-wrapper { margin-right: 3px; margin-bottom: 3px; }
+</style>]]></content:encoded>
+      <wp:post_name>marketplace</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/team</link>
+      <title>Team + Contributors</title>
+      <pubDate>Sat, 29 Aug 2020 10:59:06 +0000</pubDate>
+      <content:encoded><![CDATA[<div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+              
+            "
+            style="
+              max-width:1070px;
+              
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:120%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1578657862123-BZM5V0IL2PWEN8GPQ4AN/Adjustments.jpeg" alt="Adjustments.jpeg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1578657862123-BZM5V0IL2PWEN8GPQ4AN/Adjustments.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1578657862123-BZM5V0IL2PWEN8GPQ4AN/Adjustments.jpeg" data-image-dimensions="1070x1070" data-image-focal-point="0.5,0.5" alt="Adjustments.jpeg" data-load="false" data-image-id="5e18684598647d50e85e7de6" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<h3 style="text-align:center;white-space:pre-wrap;">Max Sikorski</h3>&nbsp;
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="small">
+	<a href="https://Twitter.com/MaxwellSikorski" class="sqs-block-button-element--small sqs-block-button-element" >Twitter</a>
+</div>
+<p style="text-align:center;white-space:pre-wrap;" class="">Max is the founder and CEO of Eden 3D Printer. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p style="text-align:center;white-space:pre-wrap;" class="">Max@Eden3DPrinter.com</p><div class="sqs-image sqs-empty"><div class="sqs-image-content" style="padding-bottom: 120.0%"></div></div><div class="sqs-image sqs-empty"><div class="sqs-image-content" style="padding-bottom: 120.0%"></div></div><h3 style="text-align:center;white-space:pre-wrap;" data-rte-preserve-empty="true"></h3><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><hr /><h2 style="text-align:center;white-space:pre-wrap;"><strong>CONTRIBUTORS</strong></h2><hr /><p style="text-align:center;white-space:pre-wrap;" class="">All contributors are listed below.<br></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p style="text-align:center;white-space:pre-wrap;" class="">Super TestNet</p><p style="text-align:center;white-space:pre-wrap;" class="">Kirk Stobinski</p><p style="text-align:center;white-space:pre-wrap;" class="">Jermey Babb</p><p style="text-align:center;white-space:pre-wrap;" class="">Ryan Turco</p><p style="text-align:center;white-space:pre-wrap;" class="">Hebasto</p><p style="text-align:center;white-space:pre-wrap;" class="">Sam Harmon</p><p style="text-align:center;white-space:pre-wrap;" class="">Randy Sikorski</p><p style="text-align:center;white-space:pre-wrap;" class="">Waterville Bodyworks, Inc.</p><p style="text-align:center;white-space:pre-wrap;" class="">Roger, Glass Doctor, Inc. (Maumee)</p><p style="text-align:center;white-space:pre-wrap;" class="">Jim Kelley</p><p style="text-align:center;white-space:pre-wrap;" class="">Waterville Sheet Metal, Inc.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p style="text-align:center;white-space:pre-wrap;" class="">[New contributors added daily]</p><h3 style="text-align:center;white-space:pre-wrap;"><strong> A tremendous Thank You for your continuous support. </strong></h3>
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="small">
+	<a href="https://github.com/Eden3DPrinter?tab=followers" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Github Contributors</a>
+</div>]]></content:encoded>
+      <wp:post_name>team</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/eden3d</link>
+      <title>Eden3D</title>
+      <pubDate>Fri, 13 Nov 2020 00:27:06 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 style="text-align:center;white-space:pre-wrap;"><strong>&nbsp;Eden3d</strong></h1><p style="text-align:center;white-space:pre-wrap;" class=""><strong>Our Desktop &amp; Mobile iOS Applications</strong></p><p style="text-align:center;white-space:pre-wrap;" class=""><strong>Non-custodial ⚡️ ENABLED</strong></p><h3 style="text-align:center;white-space:pre-wrap;"><strong>Download our beta ios app in our source code!</strong></h3><hr />
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="" class="sqs-block-button-element--large sqs-block-button-element" >iOS</a>
+</div>
+
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="" class="sqs-block-button-element--large sqs-block-button-element" >Android</a>
+</div>
+
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="" class="sqs-block-button-element--large sqs-block-button-element" >Desktop</a>
+</div>
+&nbsp;
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="small">
+	<a href="https://github.com/Eden3DPrinter/" class="sqs-block-button-element--small sqs-block-button-element" target="_blank">Source Code</a>
+</div>]]></content:encoded>
+      <wp:post_name>eden3d</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/who-we-support</link>
+      <title>Who We Support</title>
+      <pubDate>Thu, 11 Jun 2020 12:07:50 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          combination-animation-slide-up
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+              
+            "
+            style="
+              max-width:750px;
+              
+            "
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="https://bitcoin.org"
+              target="_blank"
+          >
+            
+          <div
+              
+                style="padding-bottom:30%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1582395876406-24ZB8XQMI730S25YSB3F/title-bitcoin-logo1.png" alt="As a bitcoin only company, we believe in  bitcoin , not blockchain." /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1582395876406-24ZB8XQMI730S25YSB3F/title-bitcoin-logo1.png" data-image="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1582395876406-24ZB8XQMI730S25YSB3F/title-bitcoin-logo1.png" data-image-dimensions="750x204" data-image-focal-point="0.5,0.5" alt="As a bitcoin only company, we believe in  bitcoin , not blockchain." data-load="false" data-image-id="5e5171e4643db018c86c9c77" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="">As a bitcoin only company, we believe in <strong>bitcoin</strong>, not blockchain.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          
+          combination-animation-slide-up
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+              
+            "
+            style="
+              max-width:1862px;
+              
+            "
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="https://twitter.com/sqcrypto"
+              target="_blank"
+          >
+            
+          <div
+              
+                style="padding-bottom:30%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1582396313742-P31IU3HQR8XHOJQIVA5U/square-crypto.png" alt="square-crypto.png" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1582396313742-P31IU3HQR8XHOJQIVA5U/square-crypto.png" data-image="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1582396313742-P31IU3HQR8XHOJQIVA5U/square-crypto.png" data-image-dimensions="1862x662" data-image-focal-point="0.5,0.5" alt="square-crypto.png" data-load="false" data-image-id="5e517399292ccf78e8219808" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<h3 style="text-align:center;white-space:pre-wrap;"><strong>Square Crypto</strong></h3>&nbsp;<hr />
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+              
+            "
+            style="
+              max-width:1500px;
+              
+            "
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="https://btcpayserver.org"
+              target="_blank"
+          >
+            
+          <div
+              
+                style="padding-bottom:28.063241958618164%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1582414712963-EBGMLZV0X37FOPZANZPF/IMG_7132.jpeg" alt="IMG_7132.jpeg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1582414712963-EBGMLZV0X37FOPZANZPF/IMG_7132.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1582414712963-EBGMLZV0X37FOPZANZPF/IMG_7132.jpeg" data-image-dimensions="1500x500" data-image-focal-point="0.5,0.5" alt="IMG_7132.jpeg" data-load="false" data-image-id="5e51bb785b06bd56a98961e5" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<h3 style="text-align:center;white-space:pre-wrap;"><strong>BTCPay Server</strong></h3><hr />
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+              
+            "
+            style="
+              max-width:1200px;
+              
+            "
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="https://blockstream.com"
+              target="_blank"
+          >
+            
+          <div
+              
+                style="padding-bottom:25.29644203186035%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1583431154820-F04D34S0Q62GBQ2EVLK5/1200px-Blockstream_logo.png" alt="1200px-Blockstream_logo.png" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1583431154820-F04D34S0Q62GBQ2EVLK5/1200px-Blockstream_logo.png" data-image="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1583431154820-F04D34S0Q62GBQ2EVLK5/1200px-Blockstream_logo.png" data-image-dimensions="1200x603" data-image-focal-point="0.5,0.5" alt="1200px-Blockstream_logo.png" data-load="false" data-image-id="5e613df2865de16791ecef24" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<h3 style="text-align:center;white-space:pre-wrap;"><strong>BLOCKSTREAM</strong></h3><hr />
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+              
+            "
+            style="
+              max-width:1000px;
+              
+            "
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="https://coinkite.com/"
+              target="_blank"
+          >
+            
+          <div
+              
+                style="padding-bottom:22.100000381469727%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1589249765406-JAE4IV772S30UX9SGN64/coinkite.png" alt="coinkite.png" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1589249765406-JAE4IV772S30UX9SGN64/coinkite.png" data-image="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1589249765406-JAE4IV772S30UX9SGN64/coinkite.png" data-image-dimensions="1000x300" data-image-focal-point="0.5,0.5" alt="coinkite.png" data-load="false" data-image-id="5eba06e5c90dce0849bb4131" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<h3 style="text-align:center;white-space:pre-wrap;"><strong>Coinkite</strong></h3><hr />
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+              
+            "
+            style="
+              max-width:400px;
+              
+            "
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="https://www.cryptocloaks.com"
+              target="_blank"
+          >
+            
+          <div
+              
+                style="padding-bottom:98%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1591877213456-9XS3SVKO8X4NW4YY66TP/cryptocloaks-logo.jpg" alt="cryptocloaks-logo.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1591877213456-9XS3SVKO8X4NW4YY66TP/cryptocloaks-logo.jpg" data-image="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1591877213456-9XS3SVKO8X4NW4YY66TP/cryptocloaks-logo.jpg" data-image-dimensions="400x400" data-image-focal-point="0.5,0.5" alt="cryptocloaks-logo.jpg" data-load="false" data-image-id="5ee21e5dd9979970bf65f00f" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<h3 style="text-align:center;white-space:pre-wrap;"><strong>CryptoCloaks</strong></h3>]]></content:encoded>
+      <wp:post_name>who-we-support</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/magicwandband</link>
+      <title>MagicWandBand</title>
+      <pubDate>Fri, 13 Nov 2020 00:25:00 +0000</pubDate>
+      <content:encoded><![CDATA[<p style="text-align:center;white-space:pre-wrap;" class="">A Magical Device for Your Wrist</p>]]></content:encoded>
+      <wp:post_name>magicwandband</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/eden3d-network</link>
+      <title>Eden3D Network</title>
+      <pubDate>Sat, 10 Jul 2021 22:43:01 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 style="text-align:center;white-space:pre-wrap;"><strong>Eden3D Network</strong></h1><p class="" style="white-space:pre-wrap;">&nbsp;</p><h3 style="text-align:center;white-space:pre-wrap;"><strong>Calling All Edenprenuer Beta Testers!</strong> </h3><p style="text-align:center;white-space:pre-wrap;" class="">We’re close to launching the Eden3D Network to the public, but we’d like some more feedback for our progress so far from close friends &amp; family in our 3D printing community. </p>&nbsp;<p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p><p style="text-align:center;white-space:pre-wrap;" class="">Please complete the form below to enter your chance in joining our private beta launch of Eden3D Network</p><p style="text-align:center;white-space:pre-wrap;" class="">We will contact you within 24 hours for steps to access our web application</p>
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="60ea1d15b132fa36207de81f"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://maxwell-sikorski.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '60ea1d15b132fa36207de81f',
+      collectionId: '',
+      objectName: 'page-604ac87f8a62e40fae7a2fbd'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1625955505794_9559" class="form-item fields name required">
+                
+            <legend class="title">
+              Name (Nym)
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                <div class="description">Only if desired, please provide a pseudonymous first & last name to preserve your personal information </div>
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1625955505794_9560" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1625955505794_9560-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                <div class="description">Please provide a valid email address</div>
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1625955505794_9560-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    placeholder="S.Nakamoto@Eden3D.io"
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1625955505794_9562" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1625955505794_9562-field">
+              How will you possibly use Eden3D Network?
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                <div class="description">Be brief</div>
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1625955505794_9562-field"
+                    placeholder="I want to earn Bitcoin as income for my CAD designs and 3D Printing capabilities "
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset
+                  id="checkbox-fe7f2d09-ac9f-4c75-b2be-c1550aca17e7"
+                  class="form-item field checkbox required"
+                  aria-required="true"
+              >
+                
+            <legend class="title">
+              How do you plan on contributing to the Eden3D Network?
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                <div class="description">please select one or more options</div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-fe7f2d09-ac9f-4c75-b2be-c1550aca17e7-field" value="I want to create 3D Designs "/> I want to create 3D Designs </label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-fe7f2d09-ac9f-4c75-b2be-c1550aca17e7-field" value="I want to provide 3D Printing capabilities"/> I want to provide 3D Printing capabilities</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-fe7f2d09-ac9f-4c75-b2be-c1550aca17e7-field" value="I'm just a user looking for 3D Printers and/or Designers to make me stuff"/> I'm just a user looking for 3D Printers and/or Designers to make me stuff</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-fe7f2d09-ac9f-4c75-b2be-c1550aca17e7-field" value="I'm just here checking out the Garden of Eden3D ;)"/> I'm just here checking out the Garden of Eden3D ;)</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-fe7f2d09-ac9f-4c75-b2be-c1550aca17e7-field" value="How can I make SatFlow without the skills listed above?"/> How can I make SatFlow without the skills listed above?</label></div>
+                
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset
+                  id="checkbox-a711ab46-e31d-48c0-af5d-49646582353a"
+                  class="form-item field checkbox required"
+                  aria-required="true"
+              >
+                
+            <legend class="title">
+              How shall I be paid/pay someone for the work provided?
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                <div class="description">Please select one or more options</div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-a711ab46-e31d-48c0-af5d-49646582353a-field" value="on-chain Bitcoin"/> on-chain Bitcoin</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-a711ab46-e31d-48c0-af5d-49646582353a-field" value="Sats"/> Sats</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-a711ab46-e31d-48c0-af5d-49646582353a-field" value="[Ugh] paypal"/> [Ugh] paypal</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-a711ab46-e31d-48c0-af5d-49646582353a-field" value="other"/> other</label></div>
+                
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-f4ed8090-d9be-434a-8695-e232076f94d8" class="form-item field textarea">
+                
+            <label class="title" for="textarea-f4ed8090-d9be-434a-8695-e232076f94d8-field">
+              Other
+              
+            </label>
+          
+                <div class="description">Please provided suggested payment methods you'd like to use</div>
+                <textarea
+                    class="field-element "
+                    id="textarea-f4ed8090-d9be-434a-8695-e232076f94d8-field"
+                    placeholder="NO SHITCOINS"
+                    
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset
+                  id="checkbox-34cd65f4-542f-4793-b6f7-d561d2c77fd9"
+                  class="form-item field checkbox required"
+                  aria-required="true"
+              >
+                
+            <legend class="title">
+              How did you hear about us?
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                <div class="description">Please select one or more options</div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-34cd65f4-542f-4793-b6f7-d561d2c77fd9-field" value="Twitter"/> Twitter</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-34cd65f4-542f-4793-b6f7-d561d2c77fd9-field" value="Eden3D.io"/> Eden3D.io</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-34cd65f4-542f-4793-b6f7-d561d2c77fd9-field" value="Telegram"/> Telegram</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-34cd65f4-542f-4793-b6f7-d561d2c77fd9-field" value="Friends (word of mouth)"/> Friends (word of mouth)</label></div>
+                
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-center
+          
+        "
+      >
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      
+        
+      
+      <div class="hidden form-submission-text"><p class="" style="white-space:pre-wrap;">Thank you! </p><p class="" style="white-space:pre-wrap;">Our team will contact via email in 24 hours to connect and begin exploring a first rough draft of this new network! </p><p class="" style="white-space:pre-wrap;">Blessings 🙏🏽 </p></div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+<hr />&nbsp;<h3 style="text-align:center;white-space:pre-wrap;"><span style="text-decoration:underline"><em>[Example of Future Webapp Functions Below]</em></span></h3><p style="text-align:center;white-space:pre-wrap;" class="">Have an idea? Bring it to live with an Edenprenuer Designer</p>
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="/finddesingerfrom" class="sqs-block-button-element--medium sqs-block-button-element" >Find Designers</a>
+</div>
+<p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p style="text-align:center;white-space:pre-wrap;" class="">Already have an .STL file? Find a local Edenpreneur Printer Today!</p>
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="[NULL]" class="sqs-block-button-element--medium sqs-block-button-element" >FInd Local Printers</a>
+</div>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Eden3D Order Book</h2>
+
+<table>
+  <tr>
+    <th>Edenprenuer</th>
+    <th>Name/Nym</th>
+    <th>Rating</th>
+    <th>Status</th>
+    <th>Product Delivery</th>
+  </tr>
+  <tr>
+    <td>Printer + Designer</td>
+    <td>Brian B.</td>
+    <td>99</td>
+    <td>[BLUE] In use, printing</td>
+    <td>local pickup + shipping</td>
+  </tr>
+  <tr>
+    <td>Printer</td>
+    <td>Rich R.</td>
+    <td>89</td>
+    <td>[GREEN] Available</td>
+	<td>local pickup</td>
+  </tr>
+  <tr>
+   <td>Designer</td>
+    <td>Sara H.</td>
+    <td>82</td>
+    <td>[RED] Offline</td>
+	<td>CAD + .STL, Email</td>
+  </tr>
+  <tr>
+    <td>Printer + Designer</td>
+    <td>Brian B.</td>
+    <td>99</td>
+    <td>[BLUE] In use, printing</td>
+    <td>local pickup + shipping</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+<pre class="source-code"><div></div></pre>]]></content:encoded>
+      <wp:post_name>eden3d-network</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/finddesingerfrom</link>
+      <title>Find Designer Form</title>
+      <pubDate>Wed, 07 Jul 2021 19:56:46 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;<h1 style="text-align:center;white-space:pre-wrap;"><strong>What are we printing today?</strong></h1>&nbsp;<h3 style="text-align:center;white-space:pre-wrap;">Please complete the form below</h3>
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="604acc2c7bb04f1cced59177"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://maxwell-sikorski.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '604acc2c7bb04f1cced59177',
+      collectionId: '',
+      objectName: 'page-604acc2c9683240066dfff78'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1615511644612_60822" class="form-item fields name">
+                
+            <legend class="title">
+              Nym/Name
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1615511644612_60823" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1615511644612_60823-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1615511644612_60823-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    placeholder="S.Nakamoto@Eden3D.io"
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1615511644612_60824" class="form-item field text required">
+                
+            <label class="title" for="text-yui_3_17_2_1_1615511644612_60824-field">
+              Design Request
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                <div class="description">In one or two words, please briefly share your concept</div>
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-yui_3_17_2_1_1615511644612_60824-field"
+                    placeholder="iPhone case"
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1615511644612_60825" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1615511644612_60825-field">
+              Design Details
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                <div class="description">Please describe in detail what exactly </div>
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1615511644612_60825-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-center
+          
+        "
+      >
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+&nbsp;]]></content:encoded>
+      <wp:post_name>finddesingerfrom</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/workshops</link>
+      <title>Workshops</title>
+      <pubDate>Wed, 23 Jun 2021 12:57:02 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 style="text-align:center;white-space:pre-wrap;"><strong>3D Printing Workshops</strong></h1><h2 style="text-align:center;white-space:pre-wrap;">Bit Block Boom</h2><h3 style="text-align:center;white-space:pre-wrap;">Friday August 27th, 2021</h3><h3 style="text-align:center;white-space:pre-wrap;">1 PM - 3 PM</h3><h3 style="text-align:center;white-space:pre-wrap;">Dallas Texas</h3><p style="text-align:center;white-space:pre-wrap;" class="">Hotel – Preston Trail Conference Room</p>&nbsp;<p style="text-align:center;white-space:pre-wrap;" class="">3D printing is localized manufacturing. We have distributed money with Bitcoin, now learn how to be a distributed manufacturer with this introductory course to get started 3D printing. Get hands-on experience in drawing CAD and setting up your printer to start building today.&nbsp;</p><p style="text-align:center;white-space:pre-wrap;" class="">Learn the workflow that it takes to turn your “Thoughts into Things” with Eden3D.</p><p style="text-align:center;white-space:pre-wrap;" class=""><strong>This event is free, but with limited seating</strong></p>&nbsp;<p style="text-align:center;white-space:pre-wrap;" class="">Please signup below to reserve your ticket today</p>
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="60d32c871cb3e3272c61e9ff"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://maxwell-sikorski.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '60d32c871cb3e3272c61e9ff',
+      collectionId: '',
+      objectName: 'page-60d32c59f47ee849f214c154'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1624452199437_4405" class="form-item fields name required">
+                
+            <legend class="title">
+              Name (Nym)
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                <div class="description">Please enter a first & last name. Nym is preferred</div>
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1624452199437_4406" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1624452199437_4406-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1624452199437_4406-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset
+                  id="checkbox-cf905e6f-5aeb-44ed-aa57-77aa56209afa"
+                  class="form-item field checkbox required"
+                  aria-required="true"
+              >
+                
+            <legend class="title">
+              Hardware
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                <div class="description">Are you taking a 3D Printer home with you?</div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-cf905e6f-5aeb-44ed-aa57-77aa56209afa-field" value="Yes"/> Yes</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-cf905e6f-5aeb-44ed-aa57-77aa56209afa-field" value="No"/> No</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-cf905e6f-5aeb-44ed-aa57-77aa56209afa-field" value="Can I?"/> Can I?</label></div>
+                
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-center
+          
+        "
+      >
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      
+        
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>]]></content:encoded>
+      <wp:post_name>workshops</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/770</link>
+      <title>Lnurl auth</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:18 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:html -->[generatelnurl]<!-- /wp:html --></p>]]></content:encoded>
+      <wp:post_name>770</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about-us-1</link>
+      <title>About Us</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:11 +0000</pubDate>
+      <content:encoded />
+      <wp:post_name>about-us-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about-us/team</link>
+      <title>Team + Contributors</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:14 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1578657862123-BZM5V0IL2PWEN8GPQ4AN/ke17ZwdGBToddI8pDm48kIWl44L2FuhHF2b9JM7jqD97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTm8gdG5xRTtrVVyLXkddLwcroyWCgtq9eWzMDTWLbr4UMTpvsBEST0gsz9xvF_nbke/Adjustments.jpeg?format=500w" alt=""/></figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph {"className":"marginleft50"} -->
+<p class="marginleft50">MAX SIKORSKI</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph -->
+<p id="yui_3_17_2_1_1620434670885_413">Max is the founder and CEO of Eden 3D Printer.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"right"} -->
+<p class="has-text-align-right">Max@Eden3DPrinter.com</p>
+<p><!-- /wp:paragraph --></div>
+<p><!-- /wp:column --><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="https://twitter.com/MaxwellSikorski">TWITTER</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2021/05/Screenshot-2021-05-07-9.22.59-PM.png" alt=""/></figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"></div>
+<p><!-- /wp:column --><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2021/05/Screenshot-2021-05-07-9.22.59-PM.png" alt=""/></figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"></div>
+<p><!-- /wp:column --><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:heading {"textAlign":"center","className":"bigtext"} -->
+<h2 class="has-text-align-center bigtext">Contributors</h2>
+<p><!-- /wp:heading --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center" id="yui_3_17_2_1_1620434670885_482">All contributors are listed below.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Super Testnet</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Kirk Stobinski</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Jermey Babb</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Ryan Turco</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Hebasto</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Sam Harmon</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Randy Sikorski</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Waterville Bodyworks, Inc.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Roger, Glass Doctor, Inc. (Maumee)</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Jim Kelley</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Waterville Sheet Metal, Inc.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center" id="yui_3_17_2_1_1620434670885_485">[New contributors added daily]</p>
+<p><!-- /wp:paragraph --><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="has-text-align-center" id="yui_3_17_2_1_1620434670885_487"><strong>A TREMENDOUS THANK YOU FOR YOUR CONTINUOUS SUPPORT.</strong></h3>
+<p><!-- /wp:heading --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="https://github.com/Eden3DPrinter?tab=followers">GITHUB SPONSORS</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>about-us/team</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about-us/who-we-support</link>
+      <title>Who We Support</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:14 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"none"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/05/image-4.png" alt=""/></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","className":"liltext"} -->
+<p class="has-text-align-center liltext">As a bitcoin only company, we believe in&nbsp;<strong>bitcoin</strong>, not blockchain.</p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/05/image-5.png" alt=""/></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>SQUARE CRYPTO</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/05/image.jpeg" alt=""/></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>BTCPAY SERVER</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/05/image-6.png" alt=""/></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>BLOCKSTREAM</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/05/image-7.png" alt=""/></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>COINKITE</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/05/image-1.jpeg" alt=""/></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>CRYPTOCLOAKS</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>about-us/who-we-support</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>15</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/add-listing</link>
+      <title>Add Listing</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:18 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:html -->
+<div id="success_or_failure" style="display: none; padding: 10px;"></div>
+<p><br>&nbsp;<script>var queryString = window.location.search;var urlParams = new URLSearchParams(queryString);var success = urlParams.get( 'success' );if ( success == "true" ) {document.getElementById( "success_or_failure" ).style.border = "2px solid lightgreen";document.getElementById( "success_or_failure" ).style.display = "block";document.getElementById( "success_or_failure" ).innerHTML = 'Your listing was successfully created. Please <a href="/wp-login.php?redirect_to=/products/eden3d-network/">click here</a> to log in.';}if ( success == "false" ) {document.getElementById( "success_or_failure" ).style.border = "2px solid red";document.getElementById( "success_or_failure" ).style.color = "red";document.getElementById( "success_or_failure" ).style.display = "block";document.getElementById( "success_or_failure" ).innerText = "There was an error creating your listing. Please contact the system administrator.";}</script>
+<h1>Add Listing</h1>
+<p>Fill out the form below to become a maker</p>
+<form method="post">
+<p><strong>Username</strong></p>
+<input type="text" id="makername" name="makername">
+<p><strong>Email</strong></p>
+<input type="text" id="makeremail" name="makeremail" required="">
+<p><strong>Password</strong></p>
+<input type="password" id="makerpass" name="makerpass">
+<p><strong>Do you want to be a printer or a designer? (optional)</strong></p>
+<p style="display: inline-block;">
+<input type="checkbox" id="designer" name="designer"> <label for="designer">Designer</label></p>
+<p style="display: inline-block;">
+<input type="checkbox" id="printer" name="printer"> <label for="printer">Printer</label></p>
+<p><strong>If you want to be a printer</strong></p>
+<p>What delivery methods do you support? (optional)</p>
+<p style="display: inline-block;">
+<input type="checkbox" id="shipping" name="shipping"> <label for="shipping">Shipping</label></p>
+<p style="display: inline-block;">
+<input type="checkbox" id="pickup" name="pickup"> <label for="pickup">Local pickup</label></p>
+<p><strong>If you want to be a designer</strong></p>
+<p>What delivery methods do you support? (optional)</p>
+<p style="display: inline-block;">
+<input type="checkbox" id="emaildelivery" name="emaildelivery"> <label for="emaildelivery">Email</label></p>
+<p style="display: inline-block;">
+<input type="checkbox" id="stl" name="stl"> <label for="stl">STL files</label></p>
+<p style="display: inline-block;">
+<input type="checkbox" id="cad" name="cad"> <label for="cad">CAD files</label></p>
+<input type="submit" id="submit" name="submit" value="Submit">
+</form>
+<p>[becomemaker]<!-- /wp:html --></p>]]></content:encoded>
+      <wp:post_name>add-listing</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>16</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/cart</link>
+      <title>Cart</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:15 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode --></p>]]></content:encoded>
+      <wp:post_name>cart</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>17</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/checkout</link>
+      <title>Checkout</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:15 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode --></p>]]></content:encoded>
+      <wp:post_name>checkout</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>18</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact-1</link>
+      <title>Contact</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:14 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:heading {"textAlign":"center","className":"bigtext"} -->
+<h2 class="has-text-align-center bigtext">Contact Us</h2>
+<p><!-- /wp:heading --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:contact-form-7/contact-form-selector {"id":644,"title":"Contact us"} -->
+<div class="wp-block-contact-form-7-contact-form-selector">[contact-form-7 id="644" title="Contact us"]</div>
+<p><!-- /wp:contact-form-7/contact-form-selector --><!-- wp:buttons {"className":"btn"} -->
+<div class="wp-block-buttons btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a href="/about-us/team" class="wp-block-button__link no-border-radius">ABOUT US</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --></p>]]></content:encoded>
+      <wp:post_name>contact-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>19</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/gift-card</link>
+      <title>Gift Card</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:15 +0000</pubDate>
+      <content:encoded><![CDATA[<p>[product_category category='mwb_wgm_giftcard']</p>]]></content:encoded>
+      <wp:post_name>gift-card</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>20</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/lnurl-login</link>
+      <title>Lnurl Login</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:19 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:html /--><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:shortcode -->[generatelnurl]<!-- /wp:shortcode --></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>lnurl-login</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>21</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/my-account</link>
+      <title>My account</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:15 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode --></p>]]></content:encoded>
+      <wp:post_name>my-account</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>22</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/posts-page</link>
+      <title>Posts Page</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:11 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<p><!-- /wp:paragraph --><!-- wp:quote -->
+<blockquote class="wp-block-quote">
+<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p>
+</blockquote>
+<p><!-- /wp:quote --><!-- wp:paragraph -->
+<p>...or something like this:</p>
+<p><!-- /wp:paragraph --><!-- wp:quote -->
+<blockquote class="wp-block-quote">
+<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
+</blockquote>
+<p><!-- /wp:quote --><!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://185.82.202.122/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>posts-page</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>23</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/products-1</link>
+      <title>Products</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:11 +0000</pubDate>
+      <content:encoded />
+      <wp:post_name>products-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>24</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/products/eden3d</link>
+      <title>eden3d</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:13 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:heading {"textAlign":"center","className":"meditext","fontSize":"huge"} -->
+<h2 class="has-text-align-center meditext has-huge-font-size"><strong>Eden3d</strong></h2>
+<p><!-- /wp:heading --><!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size"><strong>Our Desktop &amp; Mobile iOS Applications</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size"><strong>Non-custodial ⚡️ ENABLED</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size"><strong>DOWNLOAD OUR BETA IOS APP IN OUR SOURCE CODE!</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:paragraph {"align":"center","fontSize":"huge"} -->
+<p class="has-text-align-center has-huge-font-size"></p>
+<p><!-- /wp:paragraph --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="#">IOS</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="#">ANDROID</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="#">DESKTOP</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="https://github.com/Eden3DPrinter/">SOURCE CODE</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --></p>]]></content:encoded>
+      <wp:post_name>products/eden3d</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>25</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/products/eden3d-network</link>
+      <title>Eden3D Network</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:12 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":115,"height":174,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:heading {"textAlign":"center","className":"bigtext"} -->
+<h2 class="has-text-align-center bigtext"><strong>EDEN3D NETWORK</strong></h2>
+<p><!-- /wp:heading --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Have an idea? Bring it to life with an Edenprenuer Designer</p>
+<p><!-- /wp:paragraph --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius">Find Designers</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Already have an .STL file? Find a local Edenpreneur Printer Today</p>
+<p><!-- /wp:paragraph --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius">Find Local Printers</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:heading {"className":"meditext"} -->
+<h2 class="meditext">Eden3D Network Listings</h2>
+<p><!-- /wp:heading --><!-- wp:buttons {"className":"btn"} -->
+<div class="wp-block-buttons btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a href="/add-listing" class="wp-block-button__link no-border-radius">Add Listing</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:html -->
+<div id="allMakers"></div>
+<p><script>function createMaker( item, index ) {var role = "";var i; for ( i=0; i<item[ "roles" ].length; i++ ) {if ( i == 0 ) {role = item[ "roles" ][ i ];} else {role += " + " + item[ "roles" ][ i ];}}var deliver = "";var i; for ( i=0; i<item[ "product delivery" ].length; i++ ) {if ( i == 0 ) {delivery = item[ "product delivery" ][ i ];} else {delivery += " + " + item[ "product delivery" ][ i ];}}var status = "Unknown";if ( item[ "status" ] == "Available" ) {status = '<span style="background-color: lightgreen;">' + item[ "status" ] + '</span>';}if ( item[ "status" ] == "In use, printing" ) {status = '<span style="background-color: lightblue;">' + item[ "status" ] + '</span>';}if ( item[ "status" ] == "Offline" ) {status = '<span style="background-color: red;">' + item[ "status" ] + '</span>';}var index = index + 1;var maker = '
+<div class="makers" style="display: inline-block; border: 1px solid #cccccc; padding: 20px; margin-top: 20px; margin-right: 20px; vertical-align: middle; position: relative; text-align: left; width: 100%; max-width: 500px;">
+<div style="float: right; width: 60px; text-align: right;">' + item[ "rating" ] + '% rating</div>
+<h2 style="font-weight: bold;">' + item[ "name" ] + '</h2>
+<div><span  style="font-weight: bold;">Role: </span>' + role + '</div>
+<div><span style="font-weight: bold;">Product delivery: </span>' + delivery + '</div>
+<div><span style="font-weight: bold;">Status: </span>' + status + '</div>
+<div style="padding-top: 10px; float: right;"><a style="background-color: black; color: white; font-weight: bold; padding: 10px; text-decoration: none;" href="/profile/?maker=' + item[ "id" ] + '" onmouseover="this.style.backgroundColor = \'#cccccc\';" onmouseout="this.style.backgroundColor = \'black\';">PROFILE</a></div>
+</div>
+<p>';document.getElementById( "allMakers" ).innerHTML += maker;}</script><script>var makers = [displaymakers];makers.sort((a, b) => {return b.rating - a.rating;});makers.forEach( function( item, index ) {createMaker( item, index )});</script><!-- /wp:html --></p>]]></content:encoded>
+      <wp:post_name>products/eden3d-network</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>26</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/products/finddesignerform</link>
+      <title>Find Designer Form</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:13 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":137,"height":207,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:heading {"textAlign":"center","className":"meditext"} -->
+<h2 class="has-text-align-center meditext"><strong>What are we</strong></h2>
+<p><!-- /wp:heading --><!-- wp:heading {"textAlign":"center","className":"meditext"} -->
+<h2 class="has-text-align-center meditext"><strong>printing today?</strong></h2>
+<p><!-- /wp:heading --><!-- wp:heading -->
+<h2>Please complete the form below</h2>
+<p><!-- /wp:heading --><!-- wp:contact-form-7/contact-form-selector {"id":524,"title":"Find Designer Form"} -->
+<div class="wp-block-contact-form-7-contact-form-selector">[contact-form-7 id="524" title="Find Designer Form"]</div>
+<p><!-- /wp:contact-form-7/contact-form-selector --></p>]]></content:encoded>
+      <wp:post_name>products/finddesignerform</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>27</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/products/hardware</link>
+      <title>Eden 1 Hardware</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:12 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:heading {"textAlign":"center","className":"meditext","fontSize":"huge"} -->
+<h2 class="has-text-align-center meditext has-huge-font-size"><strong>Eden1 (Beta)</strong></h2>
+<p><!-- /wp:heading --><!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size"><strong>PAY WITH ⚡️</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:paragraph {"align":"center","fontSize":"huge"} -->
+<p class="has-text-align-center has-huge-font-size"><strong><em>⚡️ <span style="text-decoration: underline;">BUY NOW</span> ⚡️</em></strong></p>
+<p><!-- /wp:paragraph --><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:buttons {"contentJustification":"center"} -->
+<div class="wp-block-buttons is-content-justification-center"></div>
+<p><!-- /wp:buttons --><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center">Eden 1 3d Printer</h2>
+<p><!-- /wp:heading --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="/shop/">BUY NOW</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1585328153187-1U2W6HQFLE2BP6EJLCTP/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/Eden_1_Shop.jpeg?format=500w" alt=""/></figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --></p>]]></content:encoded>
+      <wp:post_name>products/hardware</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>28</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/products/magicwandband</link>
+      <title>Magic Wand Band</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:13 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size">A Magical Device for your Wrist</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>products/magicwandband</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>29</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/products/marketplace</link>
+      <title>Marketplace</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:15 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","className":"meditext","fontSize":"small"} -->
+<p class="has-text-align-center meditext has-small-font-size">SHOP DESIGNS BELOW</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center","className":"liltext"} -->
+<p class="has-text-align-center liltext"><strong>PAY WITH ⚡️</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">USER UPDATES SOON!</p>
+<p><!-- /wp:paragraph --><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/05/print_logo_top.stl"><img src="/wp-content/uploads/2021/05/image.png" alt=""/></a>
+<figcaption>Bitcoin top .stl</figcaption>
+</figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/05/print_logo_bottom.stl"><img src="/wp-content/uploads/2021/05/image-1.png" alt=""/></a>
+<figcaption>Bitcoin bottom.stl</figcaption>
+</figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/05/print_frisbee.stl"><img src="/wp-content/uploads/2021/05/image-2.png" alt=""/></a>
+<figcaption>The “Lauren” Frisbee, shell .stl</figcaption>
+</figure>
+<p><!-- /wp:image --><!-- wp:buttons -->
+<div class="wp-block-buttons"></div>
+<p><!-- /wp:buttons --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="https://www.eden3dprinter.com/s/Frisbee_Bit_Coin_STL.zip">DOWNLOAD ALL BITCOIN FRISBEE FILES HERE</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"textColor":"white"} -->
+<p class="has-white-color has-text-color">-</p>
+<p><!-- /wp:paragraph --><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://paywall.link/to/43a54"><img src="/wp-content/uploads/2021/05/image-3.png" alt=""/></a>
+<figcaption>"I Can't Stop Loving You" By: Count Basie</figcaption>
+</figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --></p>]]></content:encoded>
+      <wp:post_name>products/marketplace</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>30</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/products/memberblog</link>
+      <title>MemberBlog</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:13 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":151,"height":229,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --></p>]]></content:encoded>
+      <wp:post_name>products/memberblog</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>31</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/profile</link>
+      <title>Profile</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:12 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:html -->
+<div id="success_or_failure" style="display: none; padding: 10px;"></div>
+<p><script>var queryString = window.location.search;var urlParams = new URLSearchParams(queryString);var success = urlParams.get( 'success' );if ( success == "true" ) {document.getElementById( "success_or_failure" ).style.border = "2px solid lightgreen";document.getElementById( "success_or_failure" ).style.display = "block";document.getElementById( "success_or_failure" ).innerText = "Your message was sent successfully. If you do not hear back soon, try another maker or use our marketplace to submit your offer to all of our makers.";}if ( success == "false" ) {document.getElementById( "success_or_failure" ).style.border = "2px solid red";document.getElementById( "success_or_failure" ).style.color = "red";document.getElementById( "success_or_failure" ).style.display = "block";document.getElementById( "success_or_failure" ).innerText = "There was an error sending your message. Please contact the system administrator.";}</script>
+<div id="allMakers" style="text-align: center;"></div>
+<p><br>&nbsp;[showallimagesbyauser]<script>function createMaker( item, index ) {var role = "";var i; for ( i=0; i<item[ "roles" ].length; i++ ) {if ( i == 0 ) {role = item[ "roles" ][ i ];} else {role += " + " + item[ "roles" ][ i ];}}var deliver = "";var i; for ( i=0; i<item[ "product delivery" ].length; i++ ) {if ( i == 0 ) {delivery = item[ "product delivery" ][ i ];} else {delivery += " + " + item[ "product delivery" ][ i ];}}var status = "Unknown";if ( item[ "status" ] == "Available" ) {status = '<span style="background-color: lightgreen;">' + item[ "status" ] + '</span>';}if ( item[ "status" ] == "In use, printing" ) {status = '<span style="background-color: lightblue;">' + item[ "status" ] + '</span>';}if ( item[ "status" ] == "Offline" ) {status = '<span style="background-color: red;">' + item[ "status" ] + '</span>';}var index = index + 1;var maker = '
+<div class="makers" style="display: inline-block; border: 1px solid #cccccc; padding: 20px; margin-top: 20px; margin-right: 20px; vertical-align: middle; position: relative; text-align: left;">
+<div style="float: right; width: 60px; text-align: right;">' + item[ "rating" ] + '% rating</div>
+<h2 style="font-weight: bold;">' + item[ "name" ] + '</h2>
+<div><span  style="font-weight: bold;">Role: </span>' + role + '</div>
+<div><span style="font-weight: bold;">Product delivery: </span>' + delivery + '</div>
+<div><span style="font-weight: bold;">Status: </span>' + status + '</div>
+<div style="padding-top: 10px; float: right;"></div>
+</div>
+<p>';document.getElementById( "allMakers" ).innerHTML += maker;}</script><script>var queryString = window.location.search;var urlParams = new URLSearchParams(queryString);var id = urlParams.get( 'maker' );var makers = [displaymakers];makers.sort((a, b) => {return b.rating - a.rating;});makers.forEach( function( item, index ) {if ( item[ "id" ] == id ) {createMaker( item, index )}});</script><br>
+<h2>Email this maker</h2>
+<p>Ensure your email includes information about how to reply to you, such as your own email.</p>
+<form method="post">
+<p>Subject</p>
+<input type="text id=" subject"="" name="subject" style="width: 100%; max-width: 500px;"><br><br>
+<p>Body</p>
+<p><textarea id="body" name="body" rows="10" style="width: 100%; max-width: 500px;"></textarea><br><br>
+<input type="submit" id="sendbtn" name="sendbtn" value="Send"></form>
+<p>[emailmaker]<!-- /wp:html --></p>]]></content:encoded>
+      <wp:post_name>profile</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>32</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/shop-1</link>
+      <title>Shop</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:11 +0000</pubDate>
+      <content:encoded />
+      <wp:post_name>shop-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>33</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/sign-up</link>
+      <title>Sign up</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:12 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:html -->
+<h1>Sign up</h2>
+<p>Fill out the form below to become a maker</p>
+<p>[contact-form-7 id="494" title="Sign up"]<!-- /wp:html --></p>]]></content:encoded>
+      <wp:post_name>sign-up</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>34</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/store-1</link>
+      <title>Store</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:13 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:heading {"textAlign":"center","className":"meditext","fontSize":"huge"} -->
+<h2 class="has-text-align-center meditext has-huge-font-size"><strong>Store</strong></h2>
+<p><!-- /wp:heading --><!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size"><strong>PAY WITH ⚡️</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="/hardware/">EDEN 1 HARDWARE</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="/eden3d/">EDEN3D IOS APP</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="/marketplace/">MARKETPLACE</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --></p>]]></content:encoded>
+      <wp:post_name>store-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>35</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/test</link>
+      <title>Test</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:14 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:paragraph -->
+<p>[sui_form]</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>separator</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>[showallimagesbyauser user="1"]</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>test</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>36</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/welcome-1</link>
+      <title>Welcome</title>
+      <pubDate>Wed, 07 Jul 2021 19:32:11 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":121,"height":183,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><em>Thoughts into Things</em></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong><em>⚡️Eden 1⚡️ Available Now</em></strong></p>
+<p><!-- /wp:paragraph --><!-- wp:heading {"textAlign":"center","className":"bigtext"} -->
+<h2 class="has-text-align-center bigtext">Digitize Material</h2>
+<p><!-- /wp:heading --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>PAY WITH ⚡️</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="https://www.eden3dprinter.com/shop/eden-1-1">Eden 1</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --><!-- wp:html -->
+<div align="center">[showsearchbar]</div>
+<p><!-- /wp:html --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>welcome-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>37</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about-us-2</link>
+      <title>About Us</title>
+      <pubDate>Wed, 07 Jul 2021 19:42:59 +0000</pubDate>
+      <content:encoded />
+      <wp:post_name>about-us-2</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>38</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/add-listing-1</link>
+      <title>Add Listing</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:07 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:html -->
+<div id="success_or_failure" style="display: none; padding: 10px;"></div>
+<p><br>&nbsp;<script>var queryString = window.location.search;var urlParams = new URLSearchParams(queryString);var success = urlParams.get( 'success' );if ( success == "true" ) {document.getElementById( "success_or_failure" ).style.border = "2px solid lightgreen";document.getElementById( "success_or_failure" ).style.display = "block";document.getElementById( "success_or_failure" ).innerHTML = 'Your listing was successfully created. Please <a href="/wp-login.php?redirect_to=/products/eden3d-network/">click here</a> to log in.';}if ( success == "false" ) {document.getElementById( "success_or_failure" ).style.border = "2px solid red";document.getElementById( "success_or_failure" ).style.color = "red";document.getElementById( "success_or_failure" ).style.display = "block";document.getElementById( "success_or_failure" ).innerText = "There was an error creating your listing. Please contact the system administrator.";}</script>
+<h1>Add Listing</h1>
+<p>Fill out the form below to become a maker</p>
+<form method="post">
+<p><strong>Username</strong></p>
+<input type="text" id="makername" name="makername">
+<p><strong>Email</strong></p>
+<input type="text" id="makeremail" name="makeremail" required="">
+<p><strong>Password</strong></p>
+<input type="password" id="makerpass" name="makerpass">
+<p><strong>Do you want to be a printer or a designer? (optional)</strong></p>
+<p style="display: inline-block;">
+<input type="checkbox" id="designer" name="designer"> <label for="designer">Designer</label></p>
+<p style="display: inline-block;">
+<input type="checkbox" id="printer" name="printer"> <label for="printer">Printer</label></p>
+<p><strong>If you want to be a printer</strong></p>
+<p>What delivery methods do you support? (optional)</p>
+<p style="display: inline-block;">
+<input type="checkbox" id="shipping" name="shipping"> <label for="shipping">Shipping</label></p>
+<p style="display: inline-block;">
+<input type="checkbox" id="pickup" name="pickup"> <label for="pickup">Local pickup</label></p>
+<p><strong>If you want to be a designer</strong></p>
+<p>What delivery methods do you support? (optional)</p>
+<p style="display: inline-block;">
+<input type="checkbox" id="emaildelivery" name="emaildelivery"> <label for="emaildelivery">Email</label></p>
+<p style="display: inline-block;">
+<input type="checkbox" id="stl" name="stl"> <label for="stl">STL files</label></p>
+<p style="display: inline-block;">
+<input type="checkbox" id="cad" name="cad"> <label for="cad">CAD files</label></p>
+<input type="submit" id="submit" name="submit" value="Submit">
+</form>
+<p>[becomemaker]<!-- /wp:html --></p>]]></content:encoded>
+      <wp:post_name>add-listing-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>39</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/cart-1</link>
+      <title>Cart</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:03 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode --></p>]]></content:encoded>
+      <wp:post_name>cart-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>40</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/checkout-1</link>
+      <title>Checkout</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:04 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode --></p>]]></content:encoded>
+      <wp:post_name>checkout-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>41</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact-2</link>
+      <title>Contact</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:03 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:heading {"textAlign":"center","className":"bigtext"} -->
+<h2 class="has-text-align-center bigtext">Contact Us</h2>
+<p><!-- /wp:heading --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:contact-form-7/contact-form-selector {"id":644,"title":"Contact us"} -->
+<div class="wp-block-contact-form-7-contact-form-selector">[contact-form-7 id="644" title="Contact us"]</div>
+<p><!-- /wp:contact-form-7/contact-form-selector --><!-- wp:buttons {"className":"btn"} -->
+<div class="wp-block-buttons btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="/about-us/team/">ABOUT US</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --></p>]]></content:encoded>
+      <wp:post_name>contact-2</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>42</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/eden-1-hardware</link>
+      <title>Eden 1 Hardware</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:00 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:heading {"textAlign":"center","className":"meditext","fontSize":"huge"} -->
+<h2 class="has-text-align-center meditext has-huge-font-size"><strong>Eden1 (Beta)</strong></h2>
+<p><!-- /wp:heading --><!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size"><strong>PAY WITH ⚡️</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:paragraph {"align":"center","fontSize":"huge"} -->
+<p class="has-text-align-center has-huge-font-size"><strong><em>⚡️ <span style="text-decoration: underline;">BUY NOW</span> ⚡️</em></strong></p>
+<p><!-- /wp:paragraph --><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:buttons {"contentJustification":"center"} -->
+<div class="wp-block-buttons is-content-justification-center"></div>
+<p><!-- /wp:buttons --><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center">Eden 1 3d Printer</h2>
+<p><!-- /wp:heading --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="/shop/">BUY NOW</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1585328153187-1U2W6HQFLE2BP6EJLCTP/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/Eden_1_Shop.jpeg?format=500w" alt=""/></figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --></p>]]></content:encoded>
+      <wp:post_name>eden-1-hardware</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>43</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/eden3d-1</link>
+      <title>eden3d</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:01 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:heading {"textAlign":"center","className":"meditext","fontSize":"huge"} -->
+<h2 class="has-text-align-center meditext has-huge-font-size"><strong>Eden3d</strong></h2>
+<p><!-- /wp:heading --><!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size"><strong>Our Desktop &amp; Mobile iOS Applications</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size"><strong>Non-custodial ⚡️ ENABLED</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size"><strong>DOWNLOAD OUR BETA IOS APP IN OUR SOURCE CODE!</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:paragraph {"align":"center","fontSize":"huge"} -->
+<p class="has-text-align-center has-huge-font-size"></p>
+<p><!-- /wp:paragraph --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="#">IOS</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="#">ANDROID</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="#">DESKTOP</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="https://github.com/Eden3DPrinter/">SOURCE CODE</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --></p>]]></content:encoded>
+      <wp:post_name>eden3d-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>44</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/eden3d-network-1</link>
+      <title>Eden3D Network</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:00 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":115,"height":174,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:heading {"textAlign":"center","className":"bigtext"} -->
+<h2 class="has-text-align-center bigtext"><strong>EDEN3D NETWORK</strong></h2>
+<p><!-- /wp:heading --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Have an idea? Bring it to life with an Edenprenuer Designer</p>
+<p><!-- /wp:paragraph --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius">Find Designers</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Already have an .STL file? Find a local Edenpreneur Printer Today</p>
+<p><!-- /wp:paragraph --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius">Find Local Printers</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:heading {"className":"meditext"} -->
+<h2 class="meditext">Eden3D Network Listings</h2>
+<p><!-- /wp:heading --><!-- wp:buttons {"className":"btn"} -->
+<div class="wp-block-buttons btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="/add-listing/">Add Listing</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:html -->
+<div id="allMakers"></div>
+<p><script>function createMaker( item, index ) {var role = "";var i; for ( i=0; i<item[ "roles" ].length; i++ ) {if ( i == 0 ) {role = item[ "roles" ][ i ];} else {role += " + " + item[ "roles" ][ i ];}}var deliver = "";var i; for ( i=0; i<item[ "product delivery" ].length; i++ ) {if ( i == 0 ) {delivery = item[ "product delivery" ][ i ];} else {delivery += " + " + item[ "product delivery" ][ i ];}}var status = "Unknown";if ( item[ "status" ] == "Available" ) {status = '<span style="background-color: lightgreen;">' + item[ "status" ] + '</span>';}if ( item[ "status" ] == "In use, printing" ) {status = '<span style="background-color: lightblue;">' + item[ "status" ] + '</span>';}if ( item[ "status" ] == "Offline" ) {status = '<span style="background-color: red;">' + item[ "status" ] + '</span>';}var index = index + 1;var maker = '
+<div class="makers" style="display: inline-block; border: 1px solid #cccccc; padding: 20px; margin-top: 20px; margin-right: 20px; vertical-align: middle; position: relative; text-align: left; width: 100%; max-width: 500px;">
+<div style="float: right; width: 60px; text-align: right;">' + item[ "rating" ] + '% rating</div>
+<h2 style="font-weight: bold;">' + item[ "name" ] + '</h2>
+<div><span  style="font-weight: bold;">Role: </span>' + role + '</div>
+<div><span style="font-weight: bold;">Product delivery: </span>' + delivery + '</div>
+<div><span style="font-weight: bold;">Status: </span>' + status + '</div>
+<div style="padding-top: 10px; float: right;"><a style="background-color: black; color: white; font-weight: bold; padding: 10px; text-decoration: none;" href="/profile/?maker=' + item[ "id" ] + '" onmouseover="this.style.backgroundColor = \'#cccccc\';" onmouseout="this.style.backgroundColor = \'black\';">PROFILE</a></div>
+</div>
+<p>';document.getElementById( "allMakers" ).innerHTML += maker;}</script><script>var makers = [displaymakers];makers.sort((a, b) => {return b.rating - a.rating;});makers.forEach( function( item, index ) {createMaker( item, index )});</script><!-- /wp:html --></p>]]></content:encoded>
+      <wp:post_name>eden3d-network-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>45</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/find-designer-form</link>
+      <title>Find Designer Form</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:01 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":137,"height":207,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:heading {"textAlign":"center","className":"meditext"} -->
+<h2 class="has-text-align-center meditext"><strong>What are we</strong></h2>
+<p><!-- /wp:heading --><!-- wp:heading {"textAlign":"center","className":"meditext"} -->
+<h2 class="has-text-align-center meditext"><strong>printing today?</strong></h2>
+<p><!-- /wp:heading --><!-- wp:heading -->
+<h2>Please complete the form below</h2>
+<p><!-- /wp:heading --><!-- wp:contact-form-7/contact-form-selector {"id":524,"title":"Find Designer Form"} -->
+<div class="wp-block-contact-form-7-contact-form-selector">[contact-form-7 id="524" title="Find Designer Form"]</div>
+<p><!-- /wp:contact-form-7/contact-form-selector --></p>]]></content:encoded>
+      <wp:post_name>find-designer-form</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>46</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/gift-card-1</link>
+      <title>Gift Card</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:04 +0000</pubDate>
+      <content:encoded><![CDATA[<p>[product_category category='mwb_wgm_giftcard']</p>]]></content:encoded>
+      <wp:post_name>gift-card-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>47</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/lnurl-auth</link>
+      <title>Lnurl auth</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:07 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:html -->[generatelnurl]<!-- /wp:html --></p>]]></content:encoded>
+      <wp:post_name>lnurl-auth</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>48</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/lnurl-login-1</link>
+      <title>Lnurl Login</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:07 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:html /--><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:shortcode -->[generatelnurl]<!-- /wp:shortcode --></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>lnurl-login-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>49</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/magic-wand-band</link>
+      <title>Magic Wand Band</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:01 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size">A Magical Device for your Wrist</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>magic-wand-band</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>50</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/marketplace-1</link>
+      <title>Marketplace</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:03 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","className":"meditext","fontSize":"small"} -->
+<p class="has-text-align-center meditext has-small-font-size">SHOP DESIGNS BELOW</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center","className":"liltext"} -->
+<p class="has-text-align-center liltext"><strong>PAY WITH ⚡️</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">USER UPDATES SOON!</p>
+<p><!-- /wp:paragraph --><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/05/print_logo_top.stl"><img src="/wp-content/uploads/2021/05/image.png" alt=""/></a>
+<figcaption>Bitcoin top .stl</figcaption>
+</figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/05/print_logo_bottom.stl"><img src="/wp-content/uploads/2021/05/image-1.png" alt=""/></a>
+<figcaption>Bitcoin bottom.stl</figcaption>
+</figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2021/05/print_frisbee.stl"><img src="/wp-content/uploads/2021/05/image-2.png" alt=""/></a>
+<figcaption>The “Lauren” Frisbee, shell .stl</figcaption>
+</figure>
+<p><!-- /wp:image --><!-- wp:buttons -->
+<div class="wp-block-buttons"></div>
+<p><!-- /wp:buttons --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="https://www.eden3dprinter.com/s/Frisbee_Bit_Coin_STL.zip">DOWNLOAD ALL BITCOIN FRISBEE FILES HERE</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"textColor":"white"} -->
+<p class="has-white-color has-text-color">-</p>
+<p><!-- /wp:paragraph --><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://paywall.link/to/43a54"><img src="/wp-content/uploads/2021/05/image-3.png" alt=""/></a>
+<figcaption>"I Can't Stop Loving You" By: Count Basie</figcaption>
+</figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"></div>
+<p><!-- /wp:column --><!-- wp:column -->
+<div class="wp-block-column"></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --></p>]]></content:encoded>
+      <wp:post_name>marketplace-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>51</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/memberblog-1</link>
+      <title>MemberBlog</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:01 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":151,"height":229,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --></p>]]></content:encoded>
+      <wp:post_name>memberblog-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>52</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/my-account-1</link>
+      <title>My account</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:04 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode --></p>]]></content:encoded>
+      <wp:post_name>my-account-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>53</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/posts-page-1</link>
+      <title>Posts Page</title>
+      <pubDate>Wed, 07 Jul 2021 19:42:58 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<p><!-- /wp:paragraph --><!-- wp:quote -->
+<blockquote class="wp-block-quote">
+<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p>
+</blockquote>
+<p><!-- /wp:quote --><!-- wp:paragraph -->
+<p>...or something like this:</p>
+<p><!-- /wp:paragraph --><!-- wp:quote -->
+<blockquote class="wp-block-quote">
+<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
+</blockquote>
+<p><!-- /wp:quote --><!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://185.82.202.122/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>posts-page-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>54</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/products-2</link>
+      <title>Products</title>
+      <pubDate>Wed, 07 Jul 2021 19:42:59 +0000</pubDate>
+      <content:encoded />
+      <wp:post_name>products-2</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>55</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/profile-1</link>
+      <title>Profile</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:00 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:html -->
+<div id="success_or_failure" style="display: none; padding: 10px;"></div>
+<p><script>var queryString = window.location.search;var urlParams = new URLSearchParams(queryString);var success = urlParams.get( 'success' );if ( success == "true" ) {document.getElementById( "success_or_failure" ).style.border = "2px solid lightgreen";document.getElementById( "success_or_failure" ).style.display = "block";document.getElementById( "success_or_failure" ).innerText = "Your message was sent successfully. If you do not hear back soon, try another maker or use our marketplace to submit your offer to all of our makers.";}if ( success == "false" ) {document.getElementById( "success_or_failure" ).style.border = "2px solid red";document.getElementById( "success_or_failure" ).style.color = "red";document.getElementById( "success_or_failure" ).style.display = "block";document.getElementById( "success_or_failure" ).innerText = "There was an error sending your message. Please contact the system administrator.";}</script>
+<div id="allMakers" style="text-align: center;"></div>
+<p><br>&nbsp;[showallimagesbyauser]<script>function createMaker( item, index ) {var role = "";var i; for ( i=0; i<item[ "roles" ].length; i++ ) {if ( i == 0 ) {role = item[ "roles" ][ i ];} else {role += " + " + item[ "roles" ][ i ];}}var deliver = "";var i; for ( i=0; i<item[ "product delivery" ].length; i++ ) {if ( i == 0 ) {delivery = item[ "product delivery" ][ i ];} else {delivery += " + " + item[ "product delivery" ][ i ];}}var status = "Unknown";if ( item[ "status" ] == "Available" ) {status = '<span style="background-color: lightgreen;">' + item[ "status" ] + '</span>';}if ( item[ "status" ] == "In use, printing" ) {status = '<span style="background-color: lightblue;">' + item[ "status" ] + '</span>';}if ( item[ "status" ] == "Offline" ) {status = '<span style="background-color: red;">' + item[ "status" ] + '</span>';}var index = index + 1;var maker = '
+<div class="makers" style="display: inline-block; border: 1px solid #cccccc; padding: 20px; margin-top: 20px; margin-right: 20px; vertical-align: middle; position: relative; text-align: left;">
+<div style="float: right; width: 60px; text-align: right;">' + item[ "rating" ] + '% rating</div>
+<h2 style="font-weight: bold;">' + item[ "name" ] + '</h2>
+<div><span  style="font-weight: bold;">Role: </span>' + role + '</div>
+<div><span style="font-weight: bold;">Product delivery: </span>' + delivery + '</div>
+<div><span style="font-weight: bold;">Status: </span>' + status + '</div>
+<div style="padding-top: 10px; float: right;"></div>
+</div>
+<p>';document.getElementById( "allMakers" ).innerHTML += maker;}</script><script>var queryString = window.location.search;var urlParams = new URLSearchParams(queryString);var id = urlParams.get( 'maker' );var makers = [displaymakers];makers.sort((a, b) => {return b.rating - a.rating;});makers.forEach( function( item, index ) {if ( item[ "id" ] == id ) {createMaker( item, index )}});</script><br>
+<h2>Email this maker</h2>
+<p>Ensure your email includes information about how to reply to you, such as your own email.</p>
+<form method="post">
+<p>Subject</p>
+<input type="text id=" subject"="" name="subject" style="width: 100%; max-width: 500px;"><br><br>
+<p>Body</p>
+<p><textarea id="body" name="body" rows="10" style="width: 100%; max-width: 500px;"></textarea><br><br>
+<input type="submit" id="sendbtn" name="sendbtn" value="Send"></form>
+<p>[emailmaker]<!-- /wp:html --></p>]]></content:encoded>
+      <wp:post_name>profile-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>56</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/shop-2</link>
+      <title>Shop</title>
+      <pubDate>Wed, 07 Jul 2021 19:42:59 +0000</pubDate>
+      <content:encoded />
+      <wp:post_name>shop-2</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>57</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/sign-up-1</link>
+      <title>Sign up</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:00 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:html -->
+<h1>Sign up</h2>
+<p>Fill out the form below to become a maker</p>
+<p>[contact-form-7 id="494" title="Sign up"]<!-- /wp:html --></p>]]></content:encoded>
+      <wp:post_name>sign-up-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>58</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/store-2</link>
+      <title>Store</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:02 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:heading {"textAlign":"center","className":"meditext","fontSize":"huge"} -->
+<h2 class="has-text-align-center meditext has-huge-font-size"><strong>Store</strong></h2>
+<p><!-- /wp:heading --><!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size"><strong>PAY WITH ⚡️</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="/hardware/">EDEN 1 HARDWARE</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="/eden3d/">EDEN3D IOS APP</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="/marketplace/">MARKETPLACE</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --></p>]]></content:encoded>
+      <wp:post_name>store-2</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>59</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/team-contributors</link>
+      <title>Team + Contributors</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:02 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://images.squarespace-cdn.com/content/v1/59b1355af5e2311799ec8e34/1578657862123-BZM5V0IL2PWEN8GPQ4AN/ke17ZwdGBToddI8pDm48kIWl44L2FuhHF2b9JM7jqD97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTm8gdG5xRTtrVVyLXkddLwcroyWCgtq9eWzMDTWLbr4UMTpvsBEST0gsz9xvF_nbke/Adjustments.jpeg?format=500w" alt=""/></figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph {"className":"marginleft50"} -->
+<p class="marginleft50">MAX SIKORSKI</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph -->
+<p id="yui_3_17_2_1_1620434670885_413">Max is the founder and CEO of Eden 3D Printer.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"right"} -->
+<p class="has-text-align-right">Max@Eden3DPrinter.com</p>
+<p><!-- /wp:paragraph --></div>
+<p><!-- /wp:column --><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="https://twitter.com/MaxwellSikorski">TWITTER</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2021/05/Screenshot-2021-05-07-9.22.59-PM.png" alt=""/></figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"></div>
+<p><!-- /wp:column --><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2021/05/Screenshot-2021-05-07-9.22.59-PM.png" alt=""/></figure>
+<p><!-- /wp:image --></div>
+<p><!-- /wp:column --><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"></div>
+<p><!-- /wp:column --><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<p><!-- /wp:column --></div>
+<p><!-- /wp:columns --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:heading {"textAlign":"center","className":"bigtext"} -->
+<h2 class="has-text-align-center bigtext">Contributors</h2>
+<p><!-- /wp:heading --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center" id="yui_3_17_2_1_1620434670885_482">All contributors are listed below.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Super Testnet</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Kirk Stobinski</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Jermey Babb</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Ryan Turco</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Hebasto</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Sam Harmon</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Randy Sikorski</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Waterville Bodyworks, Inc.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Roger, Glass Doctor, Inc. (Maumee)</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Jim Kelley</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Waterville Sheet Metal, Inc.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center" id="yui_3_17_2_1_1620434670885_485">[New contributors added daily]</p>
+<p><!-- /wp:paragraph --><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="has-text-align-center" id="yui_3_17_2_1_1620434670885_487"><strong>A TREMENDOUS THANK YOU FOR YOUR CONTINUOUS SUPPORT.</strong></h3>
+<p><!-- /wp:heading --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="https://github.com/Eden3DPrinter?tab=followers">GITHUB SPONSORS</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>team-contributors</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>60</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/test-1</link>
+      <title>Test</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:03 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:paragraph -->
+<p>[sui_form]</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>separator</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>[showallimagesbyauser user="1"]</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>test-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>61</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/welcome-2</link>
+      <title>Welcome</title>
+      <pubDate>Wed, 07 Jul 2021 19:42:59 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":121,"height":183,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><em>Thoughts into Things</em></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong><em>⚡️Eden 1⚡️ Available Now</em></strong></p>
+<p><!-- /wp:paragraph --><!-- wp:heading {"textAlign":"center","className":"bigtext"} -->
+<h2 class="has-text-align-center bigtext">Digitize Material</h2>
+<p><!-- /wp:heading --><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>PAY WITH ⚡️</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:buttons {"contentJustification":"center","className":"btn"} -->
+<div class="wp-block-buttons is-content-justification-center btn"><!-- wp:button {"borderRadius":0,"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link no-border-radius" href="https://www.eden3dprinter.com/shop/eden-1-1">Eden 1</a></div>
+<p><!-- /wp:button --></div>
+<p><!-- /wp:buttons --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --><!-- wp:html -->
+<div align="center">[showsearchbar]</div>
+<p><!-- /wp:html --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>welcome-2</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>62</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/who-we-support-1</link>
+      <title>Who We Support</title>
+      <pubDate>Wed, 07 Jul 2021 19:43:02 +0000</pubDate>
+      <content:encoded><![CDATA[<p><!-- wp:image {"align":"center","width":181,"height":274,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="/"><img src="/wp-content/uploads/2021/05/IMG_7233.jpg" alt=""/></a></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"none"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/05/image-4.png" alt=""/></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","className":"liltext"} -->
+<p class="has-text-align-center liltext">As a bitcoin only company, we believe in&nbsp;<strong>bitcoin</strong>, not blockchain.</p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/05/image-5.png" alt=""/></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>SQUARE CRYPTO</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/05/image.jpeg" alt=""/></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>BTCPAY SERVER</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/05/image-6.png" alt=""/></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>BLOCKSTREAM</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/05/image-7.png" alt=""/></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>COINKITE</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/><!-- /wp:separator --><!-- wp:image {"align":"center","sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/05/image-1.jpeg" alt=""/></figure>
+</div>
+<p><!-- /wp:image --><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>CRYPTOCLOAKS</strong></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph -->
+</p>
+<p><!-- /wp:paragraph --></p>]]></content:encoded>
+      <wp:post_name>who-we-support-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>63</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
